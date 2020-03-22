@@ -1,8 +1,8 @@
 # Sort-Algorithms
-STL Sort
-Bubble Sort
-Count Sort
-Radix Sort
-Merge Sort
-Quick Sort
-Quick Sort Median of 3
+STL Sort \n
+Bubble Sort \n
+Count Sort \n
+Radix Sort \n
+Merge Sort \n
+Quick Sort \n
+Quick Sort Median of 3 \n
