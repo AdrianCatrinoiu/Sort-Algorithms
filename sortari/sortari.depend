@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584909579 source:c:\users\adrian\desktop\tema_sd_1\sortari\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+	<list>
+	<cstdlib>
+	<chrono>
+	<algorithm>
+
+1584906280 source:c:\users\adrian\desktop\tema_sd_1\sortari\asd.cpp
+
